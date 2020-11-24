@@ -135,7 +135,7 @@
 /* FIRST BACKGROUND */
 
 .hero-bg {
-    background: linear-gradient(to right, rgba(245, 158, 105, 0.411), rgba(253, 97, 0, 0.5)), url(images/bg_1.jpg);
+    background: linear-gradient(to right, rgba(20, 16, 14, 0.411), rgba(253, 97, 0, 0.5)), url(images/bg_1.jpg);
     height: 600px;
     color: rgb(253, 95, 0);
     width: 100%;
