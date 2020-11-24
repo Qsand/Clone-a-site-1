@@ -140,7 +140,9 @@
     color: rgb(253, 95, 0);
     width: 100%;
     background-size: cover;
-    padding: 200px;
+    display: flex;
+    align-items: center;
+    padding: 0px 200px;
 }
 .hero-sub-div {
     width: 50%;
